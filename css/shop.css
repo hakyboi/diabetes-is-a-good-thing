@@ -1,0 +1,31 @@
+#shop{
+   display:flex;
+   height: 100%;
+   width: 23%;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   border: 3px solid;
+}
+.upgrade{
+   height: 10%;
+   width: 100%;
+   border: 1px solid;
+   border-color: aqua;
+}
+.beginner-upgrade{
+   background-color: rgb(255, 255, 255);
+   height: 50px;
+   width: 100%;
+}
+#buildings{
+   height: 80%;
+   width: 100%;
+   border: 1px solid;
+   border-color: aqua;
+}
+#bought-icon{
+   height: 100%;
+   width: 50%;
+   border: 3px solid;
+}
